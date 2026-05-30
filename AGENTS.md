@@ -16,7 +16,6 @@ the layout/art), then re-run the pipeline.
 ## Regenerate the book (run after ANY change)
 
 ```bash
-cd /home/ran/ai/blogd
 uv run render_maps.py     # scenario deployment maps  -> assets/map_*.png   (only if maps changed)
 uv run gen_images.py      # gpt-image-2 art           -> assets/*.png       (skips existing; needs OPENAI_API_KEY in .env)
 uv run sixes_book.py      # reads sixes_content.json + assets/ -> sixes_rulebook.docx
