@@ -1,0 +1,76 @@
+{
+ "index": 2,
+ "name": "The Brine-Factors (the Salt Exchange)",
+ "identity": "Mobile, opportunistic, economic tempo. Fast cheap snatchers (Cutpurses, Reach-Runners, Skiff-Reach Corsairs) dart in, liquidate contested crystals, and bank Coin to bribe, edit, and reinforce reactively. The constant brutal decision is liquidity vs. presence: a sold crystal is safe and counts but is off the board doing nothing, and you can never sit still on your wealth — spend to zero and you collapse. They reward kinetic, never-moored play and out-tempo opponents by removing the prize before anyone can break or seal it.",
+ "playstyle": "The Open Ledger — they do not score by holding crystals, they score by SELLING them. Disengaging a Factor from a Loose/Held crystal lifts it off the board into the Hold (untouchable, scoring) and earns 1 Coin; Coin is the fuel for every other Factor rule and can be spent during…",
+ "colorMotif": "Brass and deep teal — patinaed brass scales, ledger-ink teal sashes, glittering coin-cut salt.",
+ "signatureRule": {
+  "name": "The Open Ledger",
+  "text": "The Brine-Factors do not score crystals by holding them — they score by SELLING them. Maintain a single visible pool of Coin (use physical coin-cut salt tokens so the board, not bookkeeping, shows your wealth). EARN: any time a Factor model in base contact with a Loose or Held…"
+ },
+ "lore": {
+  "origin": "The Brine-Factors did not begin as archivists at all. They were the salvage-crews and bilge-runners who skimmed the receding margins for whatever the other three orders left behind — cracked salt-glass too damaged to enshrine, off-cuts the Mnemarchs deemed unsanctifiable, shards the Iconoclasts hadn't gotten around to breaking. They were scavengers of scavengers. The turn came when a wading hauler named Cassine Lir re-lived a half-spoiled crystal of a battle that had never…",
+  "culture": "A mercantile guild dressed as a religion of the deal, or a religion dressed as a guild — the Factors themselves no longer bother to distinguish, since the distinction doesn't price differently. Every Factor carries a ledger-stone, a slab of dark salt-glass on which their debts and credits are crystallized; to die owing more than you're owed is the only true Factor disgrace, and the dead are appraised before they are mourned. They speak in the cant of the Exchange: a friend…",
+  "whyTheyFight": "They fight because the Sea is the final liquidation sale of all history, and a closing sale waits for no one. The Mnemarchs want to fix the past, the Iconoclasts to erase it, the Sediment to free it — all of which, to a Factor, are different ways of taking inventory off the market and destroying its value. The Factors fight to keep the past liquid, tradeable, and theirs to price, right up until the Toll strikes dry. They do not especially want any particular version of the…",
+  "leadership": "The Exchange is run by the Counting House, a rotating quorum of Senior Factors whose authority is measured purely in the size of their book. Pre-eminent among them is the Iodine Comptroller, Vael Surr-of-the-Open-Ledger, who is said to have re-lived so many edited crystals that she remembers seventeen contradictory childhoods and bills the discrepancy to a holding account. She does not give orders; she quotes prices, and a Factor who refuses her price simply discovers that…",
+  "homeland": "The Factors have no homeland because a homeland is an immobile asset, and the Factors do not hold immobile assets. Their 'territory' is the Salt Exchange itself — a floating, ever-relocating bazaar of lashed skiffs, ledger-barges, and tide-sledges that follows the receding waterline so that it is always moored at the exact margin where fresh crystals are forming. Wherever the brine is leaving fastest, the Exchange is already there, planks down, lamps lit, prices chalked,…"
+ },
+ "units": [
+  {
+   "name": "Cutpurse Wavewalkers",
+   "role": "Cheap fast troop / objective-snatcher",
+   "flavor": "Touch a crystal, liquidate it, and be three zones gone before the splash reacts — they bill you for the inconvenience.",
+   "stat": "M7\" SK5+ DEF6+ W1 A1"
+  },
+  {
+   "name": "Skiff-Reach Corsairs",
+   "role": "Fast cavalry / harasser (tide-skiff mounted)",
+   "flavor": "Flank, liquidate whatever the front line was guarding, and vanish across water no one else crosses at speed.",
+   "stat": "M10\" SK4+ DEF5+ W1 A2"
+  },
+  {
+   "name": "Factor-Clerks of the Open Book",
+   "role": "Support / Coin engine / Editor",
+   "flavor": "They never throw a punch — they Edit the salt under your feet and watch your victory revalue to a loss in their margins.",
+   "stat": "M6\" SK5+ DEF5+ W1 A1"
+  },
+  {
+   "name": "Ironbound Bodyguard-Clerks",
+   "role": "Durable mid-line / Coin-holder protection",
+   "flavor": "A wall of ledger-armor around the wallet — debt-collectors who collect in person and never let the Coin out of arm's reach.",
+   "stat": "M5\" SK4+ DEF3+ W2 A2"
+  },
+  {
+   "name": "The Iodine-Blind",
+   "role": "Glass-cannon disruptor / Forger skirmisher",
+   "flavor": "They can no longer tell their past from yours and have monetized the confusion, salting the flat with lies until the truth has no quotable price.",
+   "stat": "M7\" SK5+ DEF6+ W1 A1"
+  },
+  {
+   "name": "The Hauler-Sledge",
+   "role": "Heavy support / mobile Hold / objective denial",
+   "flavor": "A groaning sledge that scoops crystals by the armful — slow, greedy, and impossible to rob, because the merchandise is already gone.",
+   "stat": "M4\" SK5+ DEF3+ W4 A3"
+  },
+  {
+   "name": "Reach-Runner Outriders",
+   "role": "Ultra-cheap chaff / screen / second wave",
+   "flavor": "All velocity, no reserves — thin-book runners who exist to touch, sell, and be gone before they cost anything to lose.",
+   "stat": "M8\" SK5+ DEF6+ W1 A1"
+  }
+ ],
+ "characters": [
+  {
+   "name": "Vael Surr, the Iodine Comptroller",
+   "title": "Faction Warlord / Coin Generator / Market-Controller",
+   "flavor": "She remembers seventeen childhoods and bills the discrepancy to a holding account — and intends to be the last solvent thing the Sea ever sees.",
+   "rule": "Quote the Price"
+  },
+  {
+   "name": "The Auctioneer-Adept",
+   "title": "Hero Support / Tempo-Control / Bribe Specialist",
+   "flavor": "Wherever the Auctioneer stands the past goes to the highest bidder, and the bidding never stops until the Toll strikes dry.",
+   "rule": "Going Once, Going Twice"
+  }
+ ]
+}

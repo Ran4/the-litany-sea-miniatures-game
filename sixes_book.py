@@ -61,6 +61,22 @@ def next_epigraph():
     return e
 
 
+ASSETS = os.path.join(HERE, "assets")
+IMG_CAP = {}
+_ipath = os.path.join(HERE, "images_prompts.json")
+if os.path.exists(_ipath):
+    try:
+        for _im in json.load(open(_ipath, encoding="utf-8")):
+            IMG_CAP[_im.get("id")] = _im.get("caption", "")
+    except Exception:
+        pass
+
+
+def has_img(iid):
+    p = os.path.join(ASSETS, iid + ".png")
+    return p if (os.path.exists(p) and os.path.getsize(p) > 5000) else None
+
+
 # ---- low-level helpers -------------------------------------------------------
 def shade(cell, hex_fill):
     tcPr = cell._tc.get_or_add_tcPr()
@@ -261,6 +277,72 @@ def fiction(doc, text):
         r.font.color.rgb = INK
 
 
+def add_image(doc, iid, width_in, caption=None, center=True):
+    p = has_img(iid)
+    if not p:
+        return False
+    par = doc.add_paragraph()
+    if center:
+        par.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    par.paragraph_format.space_before = Pt(4)
+    par.add_run().add_picture(p, width=Inches(width_in))
+    cap = caption if caption is not None else IMG_CAP.get(iid, "")
+    if cap:
+        cp = doc.add_paragraph()
+        cp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        cp.paragraph_format.space_after = Pt(8)
+        cr = cp.add_run(cap)
+        cr.italic = True
+        cr.font.size = Pt(8.5)
+        cr.font.color.rgb = GREY
+        cr.font.name = BODY_FONT
+    return True
+
+
+def add_image_path(doc, path, width_in, caption=None, center=True):
+    if not (os.path.exists(path) and os.path.getsize(path) > 5000):
+        return False
+    par = doc.add_paragraph()
+    if center:
+        par.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    par.paragraph_format.space_before = Pt(4)
+    par.add_run().add_picture(path, width=Inches(width_in))
+    if caption:
+        cp = doc.add_paragraph()
+        cp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        cp.paragraph_format.space_after = Pt(8)
+        cr = cp.add_run(caption)
+        cr.italic = True
+        cr.font.size = Pt(8.5)
+        cr.font.color.rgb = GREY
+        cr.font.name = BODY_FONT
+    return True
+
+
+def two_up_images(doc, left_id, right_id, captions):
+    lp, rp = has_img(left_id), has_img(right_id)
+    if not (lp or rp):
+        return
+    table = doc.add_table(rows=1, cols=2)
+    table.alignment = WD_TABLE_ALIGNMENT.CENTER
+    for idx, (iid, pth) in enumerate([(left_id, lp), (right_id, rp)]):
+        cell = table.rows[0].cells[idx]
+        cell.width = Mm(83)
+        cell.text = ""
+        cpar = cell.paragraphs[0]
+        cpar.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        if pth:
+            cpar.add_run().add_picture(pth, width=Inches(2.95))
+        capp = cell.add_paragraph()
+        capp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        cr = capp.add_run(captions.get(iid, IMG_CAP.get(iid, "")))
+        cr.italic = True
+        cr.font.size = Pt(8)
+        cr.font.color.rgb = GREY
+        cr.font.name = BODY_FONT
+    doc.add_paragraph().paragraph_format.space_after = Pt(4)
+
+
 def part_divider(doc, label, title, blurb=None):
     doc.add_page_break()
     for _ in range(3):
@@ -398,8 +480,16 @@ rps.font.size = Pt(12)
 rps.font.color.rgb = GREY
 rps.font.name = BODY_FONT
 
-for _ in range(8):
-    doc.add_paragraph()
+_cover = has_img("cover")
+if _cover:
+    cv = doc.add_paragraph()
+    cv.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    cv.paragraph_format.space_before = Pt(8)
+    cv.paragraph_format.space_after = Pt(8)
+    cv.add_run().add_picture(_cover, width=Inches(6.2))
+else:
+    for _ in range(8):
+        doc.add_paragraph()
 need = doc.add_paragraph()
 need.alignment = WD_ALIGN_PARAGRAPH.CENTER
 nr = need.add_run("ALL YOU NEED")
@@ -466,12 +556,14 @@ if prose.get("worldIntro"):
     heading(doc, "A World at War", 1)
     epigraph(doc, next_epigraph())
     body(doc, prose["worldIntro"])
+    add_image(doc, "world_toll", 6.3)
 
 heading(doc, "The Premise", 1)
 if setting.get("premise"):
     body(doc, setting["premise"])
 if setting.get("theTwist"):
     callout(doc, "The Twist", setting["theTwist"])
+add_image(doc, "world_shatter", 6.3)
 
 tl = prose.get("grandTimeline") or setting.get("timeline") or []
 if tl:
@@ -592,7 +684,7 @@ part_divider(doc, "Part III", "The Factions",
 
 dist_by_faction = {d.get("faction", ""): d for d in (council.get("distinctiveness") or [])}
 
-for fac in factions:
+for fidx, fac in enumerate(factions):
     doc.add_page_break()
     name = fac.get("name", "Faction")
     heading(doc, name, 1)
@@ -604,6 +696,9 @@ for fac in factions:
         r.font.size = Pt(12)
         r.font.color.rgb = ACCENT
         r.font.name = BODY_FONT
+
+    add_image(doc, "fac_%d" % fidx, 4.3)
+    two_up_images(doc, "unit_%d_1" % fidx, "unit_%d_2" % fidx, {})
 
     d = dist_by_faction.get(name)
     if d:
@@ -705,6 +800,8 @@ for i, sc in enumerate(scenarios, 1):
     heading(doc, f"{i}.  {sc.get('name', 'Scenario')}", 1)
     if sc.get("hook"):
         body(doc, sc["hook"], italic=True, color=STEEL, space_after=4)
+    add_image_path(doc, os.path.join(ASSETS, "map_%d.png" % (i - 1)), 5.7,
+                   caption="Suggested deployment — " + sc.get("name", ""))
     for label, key in [("Setup", "setup"), ("Deployment", "deployment"),
                        ("Objectives", "objectives"), ("Twist", "twist")]:
         if sc.get(key):

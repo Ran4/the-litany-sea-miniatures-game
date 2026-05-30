@@ -1,0 +1,50 @@
+{
+ "name": "The Litany Sea",
+ "tagline": "A war over the nature of truth, fought with salt and brine on the corpse of a god, with a clock everyone can hear.",
+ "premise": "When the leviathan-deity Veyl was slain in the deep past, it did not bleed — it wept, and its grief filled the basin of the world to become the Litany Sea, an ocean of brine in which every drop held a remembered moment. Now the Sea is dying: the rust-red sun has not set in living memory, and the brine is evaporating, receding thigh-deep then ankle-deep then gone, crystallizing as it goes into salt-glass that fossilizes real history — each crystal a moment you can re-live, sell, edit, set forever, or shatter so that it never happened at all. Across this drying flat wade the memory-archivists, rival orders who have realized that whichever version of the past is still crystallized when the…",
+ "twist": "The leviathan-deity Veyl is not dead — it is grieving, and the Litany Sea is not its corpse but its open, weeping wound, still dreaming. Every crystal is a tear it has not finished crying, and the \"history\" the archivists fight to fix or erase is in fact Veyl actively re-remembering its own life as it dies, which is why the salt-dead keep rising: they are the god flinching at moments it cannot let go. The brine is not evaporating from heat — it is being wept out, and when the last pool dries,…",
+ "mechanics": [
+  {
+   "name": "The Long Toll (the living, audible clock)",
+   "concept": "The receding brine is a shared doomsday clock every faction reads identically. The Sea is genuinely alive during play: each round the tide marker advances one step on a fixed track audible as the 'Toll,' and the entire board physically transforms — Brine-deep zones recede to Dry, exposing crystals;…"
+  },
+  {
+   "name": "Custody & Collateral (capture WITHOUT breaking)",
+   "concept": "Crystals are fragile, irreplaceable, lore-bearing OBJECTS, not abstract tokens. The core tension is seizing or protecting a specific thing without shattering it in the crossfire — collateral damage as the central dilemma. You cannot win by destroying the board; you win by having intact, controlled…"
+  },
+  {
+   "name": "The Dreaming Grief (re-dreaming & board corruption)",
+   "concept": "Veyl's grief still dreams, and the salt-dead — Reliquiae, ghosts who exist only while their crystal stays solid — are the crisis given a face. The more the board dries and the more crystals shatter, the more the god flinches and re-remembers its dead, so the horde scales with the very corruption…"
+  }
+ ],
+ "terms": [
+  {
+   "term": "The Long Toll",
+   "meaning": "The shared, audible countdown of the receding brine — measured in 'tides' (game rounds). Every faction reads the same Toll; when it strikes dry, the table's…"
+  },
+  {
+   "term": "Salt-Glass / a Litany",
+   "meaning": "A crystallized memory. A single fossilized moment of real history, fragile and irreplaceable. A named, lore-bearing objective crystal is called a Litany;…"
+  },
+  {
+   "term": "Brine-deep / Dry",
+   "meaning": "The two states of any board zone. Brine-deep zones are flooded and movement-slowing but protect crystals from shattering; Dry zones are fast and lethal —…"
+  },
+  {
+   "term": "Setting",
+   "meaning": "The act of making a crystal permanent — 'setting' a memory so it can never be edited, sold, or shattered for the rest of the game. The Mnemarchs' sacred verb…"
+  },
+  {
+   "term": "Re-dreaming",
+   "meaning": "When the receding tide tries to erase a Reliquia, the god's grief sometimes re-remembers it, returning the model to play. The Sediment's resource and the…"
+  },
+  {
+   "term": "The Verdict",
+   "meaning": "The end-state epistemological scoring: which faction's ontology of the past — fixed, erased, sold, or freed — controls the most crystallized history when the…"
+  },
+  {
+   "term": "Iodine-blind",
+   "meaning": "In-world slang for an archivist who has re-lived too many crystals and can no longer tell their own memories from the Sea's. The smell of iodine on the flat…"
+  }
+ ]
+}

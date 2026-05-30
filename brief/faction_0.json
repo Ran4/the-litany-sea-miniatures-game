@@ -1,0 +1,76 @@
+{
+ "index": 0,
+ "name": "The Mnemarchs (Order of the Set Hour)",
+ "identity": "Slow, immovable, anvil-and-ritual control. Nearly every unit Cannot Run and is Salt-Stiffened, so the Mnemarchs cannot chase — they pick a wet zone, plant a bastion (Verdigris Wardens carrying Cushion of the Brine), bring Witnesses and the Sealing Choir, and try to complete the Set ritual before the Toll dries the ground out from under them. The core tension is timing: Set too early and you waste sacraments on uncontested crystals; wait for safety and the tide may strip the wet zone first. Tempo-poor but produces the only truly unkillable scoring on the table.",
+ "playstyle": "The Set Hour — the ONLY way in the game to make a crystal permanent. A binary, irreversible seal that can be performed only on a crystal in a Brine-deep (wet) zone, with two Witnesses. Once Set, the crystal can never be touched by anyone (including the Mnemarchs) and counts for…",
+ "colorMotif": "Bone-white and verdigris bronze — bleached vestments, oxidized reliquary fittings, salt-rimed gold.",
+ "signatureRule": {
+  "name": "The Set Hour",
+  "text": "Once per round, a Mnemarch model in base contact with a Held Litany or salt-glass crystal that is in a Brine-deep zone may perform the Set Hour instead of acting: declare it and place a Set marker on the crystal. A Set crystal can NEVER again be Held, edited, sold, shattered,…"
+ },
+ "lore": {
+  "origin": "The Mnemarchs began with a single wading hermit at the First Recession — the one who first re-lived a crystal and learned the past could be touched. But where others felt the thrill of a thing that could be changed, this hermit, an old reliquary-keeper named Osseil the Stilled, felt only horror: if the past can be edited, then nothing is true, and a world with no fixed truth is a world already dead. Osseil knelt in the shrinking margin and did the opposite of editing — they…",
+  "culture": "Mnemarch culture is liturgical, slow, and obsessively rigorous. They wear salt-stiffened vestments that crust harder with every crystal they Set, so that a senior archivist can barely move — rigidity is rank, and a fully-Set elder is a walking reliquary who has not bent at the waist in years. They speak in 'attestations': nothing is true until two witnesses have re-lived a crystal and sworn it matches, word for word, breath for breath. To them, editing is heresy and selling…",
+  "whyTheyFight": "The Mnemarchs fight because the Verdict is coming and they alone believe the past has intrinsic worth that must not be touched. If the Brine-Factors win, the god's last memory will be a forgery edited to suit a buyer. If the Ash Iconoclasts win, there will be no last memory at all — the god dies mid-sentence, erased. If the Sediment wins, every fixed truth dissolves and nothing was ever real. The Mnemarchs cannot abide any of these. They fight to Set the true moments before…",
+  "leadership": "The Order is led by the Set Hierarch, currently Antiphon Vael, called the Unbending — an elder so thoroughly Set in salt-vestment that they are carried into battle on a reliquary palanquin, unable to walk, and speak only in confirmed attestations. Beneath the Hierarch are the Two Witnesses, paired officers who must both agree before any crystal is Set; a Mnemarch force that loses one Witness fights on, but can no longer Set anything until a new pairing is sworn — a…",
+  "homeland": "The Mnemarchs have no true homeland, because they refuse to claim ground — ground is not history. Their seat is the Set Hour itself, a vast Litany-cathedral built entirely from crystals they have Set, hauled inward from the receding margins over generations and stacked into vaulted naves of salt-glass that ring like bells when the wind crosses them. It is mobile in the way a glacier is mobile, dragged tide by tide toward the last pools as the Sea retreats, so that the…"
+ },
+ "units": [
+  {
+   "name": "Attesting Acolytes",
+   "role": "Objective-holder / chaff line infantry",
+   "flavor": "Junior archivists who wade out, lay hands on a crystal, and die in attesting silence rather than let go.",
+   "stat": "M4\" SK5+ DEF5+ W1 A1"
+  },
+  {
+   "name": "Chime-Wardens",
+   "role": "Defensive overwatch / area-denial shooters",
+   "flavor": "Still-standing marksmen who fire only sworn, attested shots and make the approach to a guarded pool cost bodies.",
+   "stat": "M4\" SK4+ DEF5+ W1 A1"
+  },
+  {
+   "name": "Verdigris Wardens",
+   "role": "Elite durable bastion / anvil infantry",
+   "flavor": "Bronze-crusted veterans so oxidized they ring green when struck; you do not push them off the objective, you wait for the water to leave.",
+   "stat": "M3\" SK4+ DEF3+ W2 A2"
+  },
+  {
+   "name": "The Sealing Choir",
+   "role": "Objective-Setters / sacrament specialists",
+   "flavor": "Robed singers who perform the Set Hour as liturgy, racing the drying Toll and gambling on a single die that the moment Sets rather than shatters.",
+   "stat": "M4\" SK5+ DEF5+ W1 A1"
+  },
+  {
+   "name": "Pilgrim-Bearers of the Sealed Vault",
+   "role": "Litany-carrier / objective courier",
+   "flavor": "Stooped bearers hauling one fixed truth out of the crossfire, defenseless and utterly devoted, each a walking reliquary.",
+   "stat": "M4\" SK6+ DEF5+ W2 A1"
+  },
+  {
+   "name": "Lector of the Permitted Truth",
+   "role": "Witness substitute / re-roll support",
+   "flavor": "A witness-priest who recites the day's allowable truths and re-lives crystals to attest them, steadily going iodine-blind on the Sea's edge.",
+   "stat": "M4\" SK4+ DEF5+ W2 A1"
+  },
+  {
+   "name": "Reliquary Sentinels",
+   "role": "Static heavy fire-anchor / point-defense gun crew",
+   "flavor": "An immobile gun-shrine bolted into the pool floor that punishes the deep-water approach with a single heavy, attested shot.",
+   "stat": "M3\" SK4+ DEF4+ W2 A1"
+  }
+ ],
+ "characters": [
+  {
+   "name": "Antiphon Vael, the Unbending (Set Hierarch)",
+   "title": "Set Hierarch on Reliquary Palanquin / Warlord",
+   "flavor": "An elder so Set into salt-vestment they can no longer walk, carried on a palanquin of crystals they sealed decades ago, slow as a glacier and the last thing standing in the dry.",
+   "rule": "The Last Thing Standing"
+  },
+  {
+   "name": "The Two Witnesses (Concord & Antiphony)",
+   "title": "Paired named support characters / win-condition enablers",
+   "flavor": "Paired officers who must both live and both agree for any truth to be Set, finishing one another's attestations; kill one and the Order's sacrament freezes.",
+   "rule": "Sworn in Pairs"
+  }
+ ]
+}

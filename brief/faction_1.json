@@ -1,0 +1,88 @@
+{
+ "index": 1,
+ "name": "The Ash Iconoclasts (the Shattering)",
+ "identity": "Hyper-aggressive, fragile, board-burning glass cannons. Cheap expendable bodies (Slag-Pick Penitents at 8 pts), We Keep No Relics and Faith Without Memory mean they never hold or score crystals the normal way — they advance the Scour and force impossible choices: the enemy guarding an Exposed prize must either stand in front of the Breaking Volley (and die) or step away (and let the crystal shatter). They cannot work wet zones (water auto-passes), so they live and die on punishing whatever the Toll dries out. Tempo-rich, durability-poor.",
+ "playstyle": "Collateral Is the Point / Breaking Volley — uniquely, they aim AT the crystal on purpose. On a declared Breaking Volley against an enemy in/adjacent to an Exposed crystal, EVERY die (hits and misses) is also rolled against the crystal, and a natural 5 or 6 Shatters it (everyone…",
+ "colorMotif": "Charcoal and ember-orange — scorched grey robes, burnt-iodine smoke, glowing crack-lines like cooling slag.",
+ "signatureRule": {
+  "name": "Collateral Is the Point",
+  "text": "When any Ash Iconoclast unit shoots at an enemy model that is in or adjacent to an Exposed crystal's zone, BEFORE rolling the attack the controlling player may declare the shot a Breaking Volley. A Breaking Volley resolves normally against the enemy target — but EVERY die in the…"
+ },
+ "lore": {
+  "origin": "The first Iconoclast was the wading hermit of the First Recession — the same one who, in every other order's telling, founded the practice of re-living crystals. The Mnemarchs canonize that hermit as a saint of memory. The Iconoclasts know the rest of the story: after touching a thousand fossilized moments, the hermit went iodine-blind, could no longer tell their own grief from the Sea's, and understood the unbearable truth before anyone else — the crystals are not relics,…",
+  "culture": "A culture of deliberate forgetting, which makes it a culture with almost no internal memory — and they consider that a sacrament, not a flaw. Iconoclasts do not keep records, do not name their dead, and burn (in iodine-fire, the only fire that takes on the wet flat) anything that threatens to become a relic. They speak in the present tense exclusively; to use the past tense is a minor heresy, a small act of letting a moment harden. New initiates are made to shatter a crystal…",
+  "whyTheyFight": "They fight to lose — and they have made peace with that, which is what makes them terrifying. The Iconoclasts cannot author the god's last memory and do not want to; an Iconoclast who 'won the Verdict' would have failed utterly, because winning means a version of the past survived, and survival is the disease. Their entire war effort is negation: to ensure that when the last pool dries, NO ontology is intact, that the god finishes its dying thought on a blank, that Veyl…",
+  "leadership": "The order is led by the Choir of Last Voices, a council of the most profoundly iodine-blind among them — archivists who have re-lived so many crystals that they have no remaining sense of which memories are their own, and who therefore (the Iconoclasts believe) hear the god's grief most clearly, undiluted by self. The Choir does not give orders so much as point at what must be silenced; they are carried into battle on salt-litters because most can no longer reliably tell…",
+  "homeland": "The Iconoclasts have no homeland and forbid themselves one, because a home is a place that remembers you. They live in the Scour — not a location but a moving condition, the band of freshly-Dried flat directly behind the receding tide, where the brine has just left and the salt-glass is youngest and most brittle and the salt-dead rise thickest. They follow the recession like carrion-walkers follow an army, always in the wettest-newest edge of the Dry, breaking the…"
+ },
+ "units": [
+  {
+   "name": "Slag-Pick Penitent",
+   "role": "Cheap aggressive line infantry / glass-cannon body",
+   "flavor": "Fresh from the joining rite, scarred and swinging a glowing pick; they die cheap and do not remember the man who just fell beside them.",
+   "stat": "M6\" SK4+ DEF6+ W1 A2"
+  },
+  {
+   "name": "Scour-Walker",
+   "role": "Fast skirmisher / tide-riding objective-breaker",
+   "flavor": "Bare-footed zealots who reach the youngest, most brittle salt-glass first, breaking what the receding water just left behind.",
+   "stat": "M8\" SK4+ DEF6+ W1 A2"
+  },
+  {
+   "name": "Iodine Censer-Thrower",
+   "role": "Mid-range shatter artillery / collateral specialist",
+   "flavor": "Lobs censers that bloom in sweet acrid fire — useless on armour, ruinous on glass; it aims at the Litany and lets the guard decide whether to keep standing in front of it.",
+   "stat": "M5\" SK4+ DEF6+ W1 A1"
+  },
+  {
+   "name": "Cantor-Breaker",
+   "role": "Field commander / shatter-support beacon",
+   "flavor": "A zealot just shy of full blindness who finds a Litany's fracture-note by ear; where the Cantor-Breaker sings, the salt-glass wants to come apart.",
+   "stat": "M6\" SK3+ DEF5+ W2 A3"
+  },
+  {
+   "name": "Voice of the Last Hour",
+   "role": "Heavy elite / zone-denial bruiser",
+   "flavor": "A profoundly blind Choir veteran who marches toward any silence it can hear; whatever is loud — friend, foe, or prize — it breaks.",
+   "stat": "M5\" SK3+ DEF5+ W3 A3"
+  },
+  {
+   "name": "Ash-Anchorite",
+   "role": "Lone hunter / Litany assassin",
+   "flavor": "A solitary penitent who re-lives one chosen crystal until they know precisely how it must break, then arrives alone to unmake it before anyone knew they were there.",
+   "stat": "M6\" SK3+ DEF6+ W1 A2"
+  },
+  {
+   "name": "Glass-Wraith Detonator",
+   "role": "Suicide shock unit / guaranteed shatter",
+   "flavor": "A penitent who has made a bomb of their own body, closing to a prize and simply ending — taking themselves, the crystal, and whatever guarded it out of history in one bloom of sweet fire.",
+   "stat": "M6\" SK5+ DEF6+ W1 A1"
+  },
+  {
+   "name": "Litter of the Choir",
+   "role": "Command monster / blind-faith engine",
+   "flavor": "A blind Voice of the Choir borne on a salt-litter by chained Penitents; it cannot see the battle and does not need to — it hears the god's grief and points at what must go quiet next.",
+   "stat": "M4\" SK4+ DEF5+ W4 A2"
+  },
+  {
+   "name": "Cooling-Slag Cantor",
+   "role": "Subfaction beacon / indiscriminate volley caller",
+   "flavor": "A Cantor who travels with the Choir of Last Voices and has stopped pretending to fight a war; declares a zone and lets everything in it — including its own line — eat the volley.",
+   "stat": "M5\" SK4+ DEF5+ W2 A2"
+  }
+ ],
+ "characters": [
+  {
+   "name": "Vael-Who-Is-Nothing-Yet",
+   "title": "First Cantor of the Cooling-Slag Choir, the Quiet She Heard",
+   "flavor": "She has touched so many crystals she no longer knows her own grief from the Sea's; she chases the one clean silence she heard the day she shattered her first Litany, and breaks the world toward it.",
+   "rule": "The Sea Goes Quiet"
+  },
+  {
+   "name": "Korrun the Match",
+   "title": "Last-Voice Penitent, Burned Everything in the Joining and Came Up Laughing",
+   "flavor": "He shattered the crystal of his dearest memory at dawn and is fighting in the raw open wound of it, racing to make the whole world feel the hole he just put in himself.",
+   "rule": "Spend Me Like a Struck Match"
+  }
+ ]
+}

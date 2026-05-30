@@ -1,0 +1,88 @@
+{
+ "index": 3,
+ "name": "The Sediment (the Re-Dreaming)",
+ "identity": "Attritional swarm that feeds on the game's own decay. Dirt-cheap expendable bodies (Wadeling Drift at 6 pts, Murmur-Host at 7) are spent like water because the drying board pays them back. They smother objectives, Drown The Prize to deny Sets, and grow stronger precisely when opponents are most active — Iconoclast shatters and Mnemarch crystal-fights both refill Grief. The core skill is managing the two-tide erasure clock so the recursion engine never actually empties. Durability-rich through recursion, individually disposable.",
+ "playstyle": "The Re-Dreaming — they never lose a model, they send it back. Casualties go to a Re-Dreaming pile; at the start of each round (after the Toll) Grief tokens are spent 1-for-1 to AUTO-RETURN them to any Dry zone, no roll, no scatter. The Grief pool fills from the whole table's…",
+ "colorMotif": "Pale salt-grey and bruise-violet — translucent crystalline flesh, deep-water violet shadow, iridescent brine-sheen.",
+ "signatureRule": {
+  "name": "The Re-Dreaming",
+  "text": "The Sediment never loses a Reliquia — it only sends one back to be re-remembered. When any Reliquia model is removed as a casualty, do not destroy it: set it aside in the Re-Dreaming pile. At the start of every round, AFTER the Toll advances and zones flip, count the Grief pool.…"
+ },
+ "lore": {
+  "origin": "The Sediment was not founded; it accreted. Where the other three orders crystallized around scholars, zealots, and merchants — people with names and signatures — the Sediment began the first time a wading archivist died on the flat and the tide, receding past her body, declined to erase her. She rose. Salt-skinned, translucent, remembering nothing but the single moment that held her solid, she walked toward the nearest pool as if drawn to a hearth. The hierophants of the…",
+  "culture": "They have no archives, because to archive is to fix, and to fix is to refuse the god its rest. Instead they keep middens — sprawling, deliberately disorganized heaps of un-set salt-glass left loose in the wet so the tide can take any of it at any time. A Sediment camp is identifiable by the absence of locks, walls, and ledgers, and by the constant low chorus of the salt-dead murmuring the one moment each can still remember, over and over, until the sound becomes a kind of…",
+  "whyTheyFight": "They do not fight to win the past. They fight to ensure no one else fixes it, because every Set crystal is a thought the god is forbidden to release — a splinter driven into a dying mind to keep it awake and in pain. The Mnemarchs call this preservation; the Sediment calls it the cruelest thing in the world. Their war aim is not victory but completion: they want the Long Toll to strike Dry with as much history as possible still loose, dissolving, free to return to solution…",
+  "leadership": "There is no hierarch, because hierarchy is a structure and structures are fixed. The Sediment is led, loosely and reluctantly, by the Grief-Touched: living hierophants so deep into iodine-blindness that they have begun to weep brine and shed salt at the fingertips, halfway to becoming Reliquiae themselves. The eldest of these is called the Undertow — a title, not a name, because whoever holds it has forgotten their name on purpose. The Undertow does not give orders so much…",
+  "homeland": "The Lees — the lowest, oldest, most thoroughly evaporated quarter of the Litany Sea, where the brine receded first and the salt lies deepest. It is a sunken plain of fossil tide-lines, ankle-deep where it is wet at all, studded with the standing salt-figures of Reliquiae who walked there in ages past and simply stopped, too far from any pool to stay solid, frozen mid-stride forever. The living call it the boneyard; the Sediment calls it the Nursery, because the Lees is where…"
+ },
+ "units": [
+  {
+   "name": "Wadeling Drift",
+   "role": "Expendable core swarm / objective-smothering chaff",
+   "flavor": "The freshly-risen, wading in loose drifts to smother crystals in translucent numbers — the cheapest re-dreaming in the order.",
+   "stat": "M5\" SK5+ DEF6+ W1 A1"
+  },
+  {
+   "name": "Tide-Drowned Bulwark",
+   "role": "Durable anchor / Brine-deep zone holder",
+   "flavor": "Ancient Lees-dead grown into walking statues, planting themselves in the wet to cushion a Drowned prize and dare the Dry to take them.",
+   "stat": "M3\" SK5+ DEF4+ W2 A2"
+  },
+  {
+   "name": "Lees-Walker Vigilants",
+   "role": "Specialist disruptors / anti-Set / Dry-zone strikers",
+   "flavor": "Nursery zealots who march into the lethal Dry to stand vigil on enemy Set crystals, cracking permanence open by their desecrating presence.",
+   "stat": "M5\" SK4+ DEF5+ W1 A2"
+  },
+  {
+   "name": "Brine-Wet Cantor",
+   "role": "Mobile support / tide manipulation / utility",
+   "flavor": "An apostate ex-Factor or broken ex-Mnemarch who reads the Long Toll like a market, naming which zone drowns or dries ahead of its band.",
+   "stat": "M6\" SK4+ DEF5+ W1 A1"
+  },
+  {
+   "name": "Murmur-Host",
+   "role": "Massed area-control swarm / tempo denial",
+   "flavor": "A tide of Reliquiae packed shoulder to translucent shoulder, smothering whole zones in slowed, grieving bodies where no one runs.",
+   "stat": "M4\" SK6+ DEF6+ W1 A1"
+  },
+  {
+   "name": "Standing Salt (Erasure-Born)",
+   "role": "Heavy / one-shot shock / corruption payoff",
+   "flavor": "The largest re-dreamings — moments so vast the god's flinch returns them outsized and terrible, surging up only when the Grief pool runs deep.",
+   "stat": "M5\" SK4+ DEF4+ W3 A3"
+  },
+  {
+   "name": "The Stranded",
+   "role": "Forlorn-hope skirmishers / second-tide gamblers",
+   "flavor": "Reliquiae fed into the deep Dry on purpose, racing the second tide to spend one last moment striking where no dead should reach.",
+   "stat": "M7\" SK4+ DEF6+ W1 A2"
+  },
+  {
+   "name": "Salt-Stranded Drowner",
+   "role": "Crystal-dragger / prize escort",
+   "flavor": "Mid-deep Reliquiae whose one remembered moment is of carrying something heavy into water — they exist to drag the prize into the shrinking brine.",
+   "stat": "M4\" SK5+ DEF5+ W2 A2"
+  },
+  {
+   "name": "Iodine-Blind Chorister",
+   "role": "Grief-pool accelerant / midden-tender",
+   "flavor": "A living-dead tender of the middens who shatters its own loose salt-glass to feed the Grief pool faster — history spent as kindling for the horde.",
+   "stat": "M4\" SK5+ DEF6+ W1 A1"
+  }
+ ],
+ "characters": [
+  {
+   "name": "The Undertow",
+   "title": "Eldest Grief-Touched Hierophant",
+   "flavor": "The order's reluctant head, weeping brine from blind eyes and dissolving into a Reliquia in real time — and welcoming it. Its fall re-dreams a tide.",
+   "rule": "Walk Toward The Drying"
+  },
+  {
+   "name": "Maren Eb, the Twice-Wet",
+   "title": "Brine-Wet Cantor-Prime (apostate Brine-Factor)",
+   "flavor": "An ex-Factor edited past the thread of her own sales, now reading the Long Toll like a ledger and stranding the living in the catastrophes she calls early.",
+   "rule": "Bait The Dry"
+  }
+ ]
+}
