@@ -1,0 +1,139 @@
+{
+  "faction": "brine_factors",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "model": "eleven_multilingual_v2",
+  "scenes": [
+    {
+      "id": "01_opening_the_book",
+      "words": 48,
+      "dur": 19.252
+    },
+    {
+      "id": "02_pressed_into_your_fist",
+      "words": 60,
+      "dur": 25.678
+    },
+    {
+      "id": "03_scavengers_of_scavengers",
+      "words": 61,
+      "dur": 27.847
+    },
+    {
+      "id": "04_the_cant_costs_less",
+      "words": 58,
+      "dur": 25.574
+    },
+    {
+      "id": "05_first_position",
+      "words": 54,
+      "dur": 22.23
+    },
+    {
+      "id": "06_cassine_lir_edited_the_salt",
+      "words": 69,
+      "dur": 29.753
+    },
+    {
+      "id": "07_your_first_edited_sale",
+      "words": 58,
+      "dur": 23.954
+    },
+    {
+      "id": "08_the_arithmetic_of_a_debt_born",
+      "words": 65,
+      "dur": 27.768
+    },
+    {
+      "id": "09_in_debt_to_your_captain",
+      "words": 50,
+      "dur": 22.936
+    },
+    {
+      "id": "10_a_foundling_on_the_margin",
+      "words": 65,
+      "dur": 28.865
+    },
+    {
+      "id": "11_you_teach_the_laugh",
+      "words": 71,
+      "dur": 30.041
+    },
+    {
+      "id": "12_account_held_over",
+      "words": 55,
+      "dur": 23.589
+    },
+    {
+      "id": "13_insure_both_sides",
+      "words": 70,
+      "dur": 27.716
+    },
+    {
+      "id": "14_keep_it_moving",
+      "words": 63,
+      "dur": 26.567
+    },
+    {
+      "id": "15_one_breath_too_long",
+      "words": 63,
+      "dur": 26.279
+    },
+    {
+      "id": "16_iodine_to_blur",
+      "words": 61,
+      "dur": 29.205
+    },
+    {
+      "id": "17_the_three_orders_priced",
+      "words": 67,
+      "dur": 29.205
+    },
+    {
+      "id": "18_the_toll_nears",
+      "words": 68,
+      "dur": 25.992
+    },
+    {
+      "id": "19_she_quotes_you_a_price",
+      "words": 74,
+      "dur": 29.492
+    },
+    {
+      "id": "20_you_break_the_seal",
+      "words": 77,
+      "dur": 29.022
+    },
+    {
+      "id": "21_a_chain_not_a_market",
+      "words": 88,
+      "dur": 35.056
+    },
+    {
+      "id": "22_cash_out_a_heartbeat_early",
+      "words": 71,
+      "dur": 30.877
+    },
+    {
+      "id": "23_die_in_the_red",
+      "words": 66,
+      "dur": 27.899
+    },
+    {
+      "id": "24_appraised_before_mourned",
+      "words": 66,
+      "dur": 27.585
+    },
+    {
+      "id": "25_sold_back_to_the_table",
+      "words": 58,
+      "dur": 25.496
+    },
+    {
+      "id": "26_the_chain_forges_its_link",
+      "words": 81,
+      "dur": 35.971
+    }
+  ],
+  "total_audio": 713.848,
+  "total_words": 1687
+}

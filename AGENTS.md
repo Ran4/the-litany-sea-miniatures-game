@@ -19,3 +19,5 @@ the layout/art), then re-run the pipeline.
 * There's the rulebook, see `the_rulebook.md`
 * Lore videos, see `lore_videos/CLAUDE.md`
 * Rendered miniatures, see `minis/CLAUDE.md`
+
+Note: use `git lfs` for larger files (anything above 1 MiB or so).
