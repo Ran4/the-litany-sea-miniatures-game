@@ -1,0 +1,158 @@
+{
+  "title": "Your Life as an Ash Iconoclast",
+  "faction": "The Ash Iconoclasts — the Shattering",
+  "protagonist": "A nameless salt-burner's foundling who smells memory before it crystallizes — taken into the Scour, unmade by shattering their own dearest day, and rising by breaking toward the iodine-blindness the order calls promotion.",
+  "total_words_estimate": 1718,
+  "scenes": [
+    {
+      "id": "01_scorched_flour",
+      "chapter": "Scorched Flour",
+      "narration": "You are born with no name, behind a salt-burner's hut on the drying edge of the world. There is one hut. There is one oven. There is one woman who keeps you, and you call her nothing, because you cannot yet talk. The rust-red sun does not set, and never has. Your whole small world is the warm side of her, and the smell of bread.",
+      "image_prompt": "Wide low-horizon establishing shot of a soot-black brick oven behind a lone salt-burner's hut on a vast cracked drying salt-flat, the swollen rust-red sun hanging immense and motionless. A small child stands watching a kneeling woman at the glowing oven-mouth. Drowned-grey crust, faint brine-teal pools shrinking in the distance, a sweet acrid amber haze on the air. Crushing scale, lonely warmth, long raking shadows, melancholy hush, the figures held low against the immense sky."
+    },
+    {
+      "id": "02_one_good_afternoon",
+      "chapter": "Scorched Flour",
+      "narration": "She presses brine-bread flat to the hot stone with the pad of her thumb, and the dough hisses. She hums three flat notes under her breath, the same three, always, off-key, hers. She lifts you to watch it brown, her wrist warm against your cheek, scorched flour hanging in the air. This is the one good thing you will ever own. You do not yet know it is the thing you will break.",
+      "image_prompt": "Intimate close shot of a weathered woman's thumb pressing a round of pale dough flat against a glowing oven-stone, the dough hissing, fine flour-dust hanging in the ember-orange light. A small child's cheek rests against her warm forearm, eyes half-closed, watching the bread brown. Charcoal shadows crowd in, the oven-mouth the only warm light, scorched-flour haze drifting. Tender, sacred, doomed, soft lost-and-found edges, the hands centered well clear of the frame edges."
+    },
+    {
+      "id": "03_the_stink_of_memory",
+      "chapter": "The Stink of Memory",
+      "narration": "You are small when it begins. You smell iodine where no one else does, sweet and medicinal, days before the tide drops. You can find the youngest glass by your nose alone, walk straight to where a memory is hardening. You think everyone can do this. They cannot. The woman watches you sniff the wind, and her face goes still.",
+      "image_prompt": "Intimate close on a young child's upturned face on the cracked flat, nostrils flared, head tilted toward a far wind, eyes uneasy and certain at once. Off a distant receding tide-line drifts a faint sweet-amber iodine haze, almost luminous. Drowned-grey salt-dead crust underfoot, brine-teal threads on the horizon, the low rust sun behind. Unease, an uncanny gift waking, charcoal palette warmed by medicinal amber glow, atmospheric depth, the face kept clear of the top and bottom edges."
+    },
+    {
+      "id": "04_carrion_on_the_wind",
+      "chapter": "The Stink of Memory",
+      "narration": "She is frightened of your gift, because she knows what it means. It means you will go iodine-blind young, and the Scour-folk call going blind holy. The burnt-iodine people are already out on the wind, strung along the falling tide like carrion behind an army, breaking the glass before it can set. She pulls you back from the edge by the wrist. She has nowhere to pull you to.",
+      "image_prompt": "Wide dread composition: distant charcoal-and-ember figures strung in a ragged line along a far receding tide-line, half-lost in sweet acrid iodine haze, following the falling water like carrion behind an army. In the foreground a small child stands at the flat's edge while a weathered woman grips the child's wrist and pulls back. Vast empty drying basin, low rust-red sun, brine-teal pools shrinking. Foreboding, smallness, cold-and-warm tension, the people set low against the haze."
+    },
+    {
+      "id": "05_from_nowhere_yet",
+      "chapter": "Taken From Nowhere",
+      "narration": "The Scour reaches your margin at last, and the one who smells you out does not buy you, and does not fight for her. A Cantor-Breaker crouches down to your height, crack-lines glowing faint iodine across cheek and brow. They do not ask your name. They give you a thing to say instead, and you will say it your whole life. \"You are from nowhere yet. The place you are born is not yet shattered into not-having-happened. But it will be.\"",
+      "image_prompt": "Two-figure shot in dusk-eternal light: a scarred Cantor-Breaker crouched down to a small child's level on the bare cracked flat, self-cut crack-line facial scars glowing faint ember-orange with rubbed-in iodine, eyes calm and certain. The child stands rigid before them; the salt-burner's hut faint and small in the far background. Charcoal palette, sweet amber haze hanging low, the rust sun behind, intimate dread, hushed chiaroscuro, both figures clear of the frame edges."
+    },
+    {
+      "id": "06_a_hole_not_a_grave",
+      "chapter": "Taken From Nowhere",
+      "narration": "They lead you away by the wrist, and they burn the hut, the oven, every trace of you behind you. Not cruelty. Doctrine. A home is a place that remembers you, and memory is the disease. You get no goodbye. You get no grave. You get a hole where a hut used to be, and an iodine-fire on the bare flat that the water will never come back to quench.",
+      "image_prompt": "Departure diagonal seen from behind: a small child led by the wrist across a cracked drying flat toward distant charcoal figures, while behind them the lone salt-burner's hut and oven stand wrapped in sweet acrid amber iodine-fire that no water will return to quench. Glass-dust and embers drifting, drowned-grey crust, low rust-red sun. Profound loss, leaving lines of dried tide-marks, smoke and grief, the burning hut set off-center on the horizon."
+    },
+    {
+      "id": "07_your_own_nose_stops_you",
+      "chapter": "The Joining",
+      "narration": "Years pass. They teach you nothing you could call learning, only how to walk light and keep nothing. Then one falling tide your own nose stops you cold at the lip of the youngest Dry. You smell it before you see it. Sweet, sharp, unbearably familiar. The Sea has just crystallized your dearest day, and laid it on the warm crust at your feet, still singing.",
+      "image_prompt": "Low intimate angle: a barefoot ash-grey figure halted mid-step at the lip of fresh Dry, head turned sharply toward a single faint amber glow forming in the warm cracked crust just ahead, nostrils flared, recognition dawning. Sweet medicinal haze rising off the new crystal, glass-dust beginning to glitter. Charcoal flat, retreating brine-teal water behind, low rust sun. Dread recognition, an arrested hunt, warm amber the only bright note, the figure set clear of the lower edge."
+    },
+    {
+      "id": "08_the_fracture_note",
+      "chapter": "The Joining",
+      "narration": "There it is, set into the glass. The woman at the oven. The three flat notes. Her wrist against your cheek. No one carried it here for you, and no one kept it. The Sea wept it up, the way it weeps everything. A Cantor lays a tuning-pick against the shard and hums until it answers with its own sick fracture-note. \"Now you hear exactly where it breaks. Now you do the work yourself.\"",
+      "image_prompt": "Ritual close, centered low: a single glowing amber salt-glass crystal resting on bare warm salt-crust, a worn iron tuning-pick laid against its face. Trapped faintly inside the amber, the ghost-image of a woman pressing bread to an oven-stone. A scarred Cantor's hands frame the shard from one side; a young initiate's hands hover at the other. Charcoal surround, ember light from the crystal, glass-dust motes, sacred and terrible, the crystal centered clear of all edges."
+    },
+    {
+      "id": "09_you_touch_the_note",
+      "chapter": "The Joining",
+      "narration": "They give you the pick, iodine-heated, glowing dull orange. You do not smash it. You touch the note. The Litany exhales, like a struck bell going suddenly dumb. A bloom of sweet amber, a fistful of glass-dust, and your dearest day becomes a hole. The Cantor takes your face in both hands. \"The ache you feel is the god's ache. Now you know the work, and the work is mercy.\"",
+      "image_prompt": "Intimate close on the instant of breaking: an ember-orange heated pick-head touching a glowing amber crystal, one bright crack racing through its heart, glass-dust and medicinal amber haze blooming outward, the trapped ghost-face of a woman dimming to nothing inside. A scarred Cantor's hands reach in toward a young face at the frame edge. Charcoal dark all around, the dying crystal the only light, grief and release, jewel-bright against gloom, hushed devastation."
+    },
+    {
+      "id": "10_a_broken_crystal_for_a_face",
+      "chapter": "The Joining",
+      "narration": "Before the dust has settled, a blunt pick drags the crack-line star across your cheek and brow. Short cuts radiating from a single point, the way real glass shatters. They rub iodine into the cuts to keep the scars glowing. From this hour you may not say the word was. You keep no names. You answer only with what you are becoming. You are almost nothing yet.",
+      "image_prompt": "Ritual close: a blunt iron salt-pick dragging a radiating fracture-star of fresh cuts across a young clenched face, ember-orange iodine glistening wet in the wounds, jaw set, eyes hard with held pain. The new initiate now wears a shattered crystal as a face. Charcoal skin, cooling-slag shadows, sweet amber haze, glass-dust in the air. Brutal sacrament, transformation, warm wound-light, unflinching, the face held centered well clear of the top edge."
+    },
+    {
+      "id": "11_through_your_soles",
+      "chapter": "Riding the Scour",
+      "narration": "You are sixteen the first tide you ride the Scour for real, joining-scars still scabbed and weeping. You feel the water leave through your bare soles. Brine, then warm wet skin, then dry crust that was open sea an hour ago. The glass is youngest there, just behind the retreating water, and brittle as a held breath. You run into it while it can still break.",
+      "image_prompt": "Action diagonal wide: a pack of barefoot ash-grey Penitents sprinting across the narrow band of just-dried flat directly behind a receding tide-line, brittle amber glass humming and cracking underfoot, the retreating brine-teal water like a wave at their heels. Crack-line-scarred faces, slag-plate at the shoulders, the rust-red sun low and immense. Kinetic, fevered, charcoal and ember palette, spray and glass-dust flying, atmospheric haze, the runners kept off the bottom edge."
+    },
+    {
+      "id": "12_let_it_stop_hurting",
+      "chapter": "Riding the Scour",
+      "narration": "You are a cheap, suicidal wave, and you scream the cry as you run. \"Let it stop hurting! Break it all!\" Half of you die before the next Toll strikes, and none of you remember it afterward. You cannot be broken by a past you refuse to keep. You do not know that half the warband is dead. The bell wants to stop ringing, and you are the hammer that stops it.",
+      "image_prompt": "Chaotic action diagonal: a ragged charge of ash-grey crack-lined Penitents pouring into bright humming amber glass, mouths open in a battle cry, one figure folding mid-stride under an unseen shot while those beside him neither flinch nor look. Iodine smoke between bodies, glass-dust flying, drowned-grey crust below. Ember-orange and charcoal, feverish violence, suicidal momentum, the low rust sun behind, motion and dread and rapture together."
+    },
+    {
+      "id": "13_you_do_not_flinch",
+      "chapter": "Riding the Scour",
+      "narration": "When the Penitent beside you folds mid-stride, you do not flinch, and you do not slow. You had a name for him this morning. You have already let it go. You only know the glass ahead is still ringing, and that ringing is a wound. So you run at it. The bell wants to stop.",
+      "image_prompt": "Intimate close on the protagonist's scarred face mid-charge, unflinching, eyes fixed forward on a distant glowing amber crystal. Just out of focus beside them a comrade falls away, half-dissolved in iodine smoke. Self-cut crack-line scars catching ember light, ash-grey rags, glass-dust drifting past. Charcoal and amber palette, terrible calm, fixed devotion, the far crystal the only sharp light, hushed momentum, the face held clear of the frame edges."
+    },
+    {
+      "id": "14_point_the_gun_at_history",
+      "chapter": "Point the Gun at History",
+      "narration": "You learn the Breaking Volley by doing it. An Exposed Litany out on the dry, and planted in front of it a bone-white Verdigris Warden, oxidized into terrain, come to Set the moment forever. Your exact opposite, and your gift to give. You do not aim at the man. You point the whole gun at the history behind him. Every shot, hit or miss, eats through him to fall on the glass.",
+      "image_prompt": "Action diagonal: a crack-line-scarred Iconoclast hurling a burning iodine censer on a chain, the arc of its sweet acrid flame passing straight past an immovable oxidized bone-and-verdigris Mnemarch Warden to a glowing amber Exposed crystal planted behind him. The Warden stands rooted in the dry, rimed white with salt. Ember censer-glow, charcoal foreground, brine-teal distance, low rust sun. Tense opposition, jewel crystal beyond, atmospheric, fevered focus, the figures set clear of top and bottom."
+    },
+    {
+      "id": "15_his_impossible_choice",
+      "chapter": "Point the Gun at History",
+      "narration": "You watch the choice land on his ringing green face. Stand and eat the volley to shield one moment, or step aside and let the Scour have its silence. Either way, you have already won. The man is the lie that guards the wound. The crystal is the wound. You did not come for the man.",
+      "image_prompt": "Tight close on a Verdigris Warden's oxidized green face caught mid-decision, burning iodine-censer motes searing off his shoulder in a ring of green dust, eyes clouded and resolved. Behind him a glowing amber crystal already laced with one bright crack. The impossible choice frozen in his features. Charcoal surround, ember sparks, verdigris patina, jewel-bright cracking crystal. Sacred violence, stillness inside motion, low rust rim-light, the face centered well clear of the edges."
+    },
+    {
+      "id": "16_a_fire_that_never_goes_out",
+      "chapter": "Point the Gun at History",
+      "narration": "Sometimes the verb is simpler than a volley. You set your bare heel on a loose crystal in your grasp and it is simply gone. No roll. No bargain. It never happened, and it scores for nobody, and that is the point. The emptied ground catches into iodine-fire the water never returns to quench. A burning hole no enemy will walk into to reclaim what you unmade.",
+      "image_prompt": "Low intimate angle: a bare salt-crusted heel grinding a small amber crystal to glittering dust on the cracked crust, sweet acrid amber flame blooming up from the emptied ground behind it. The protagonist already striding on, half out of the upper frame. Charcoal flat, ember-orange fire, glass-dust scattering, drowned-grey salt. A fire that will never go out, cold purpose, atmospheric haze, low warm light, the heel and crystal centered."
+    },
+    {
+      "id": "17_three_orders_with_knives",
+      "chapter": "The Reward for Fighting Well",
+      "narration": "Through the smoke you see the other orders answer the same question with their own knives. A Brine-Factor edits a death mid-sale until it stops being anyone's. The drowned-grey salt-dead claw up out of the crust where the tide abandoned them. And your own Tide-Carrion break the one crystal a whole horde exists to protect, and the dream that held the dead together stops standing.",
+      "image_prompt": "Chaotic wide diagonal across a half-dried flat: a brass-and-teal Brine-Factor skiff skidding past while a figure edits a glowing crystal mid-sale, drowned-grey salt-dead rising from the crust in iodine haze, and charcoal Iconoclasts shattering a central amber Litany as a horde of the dead collapses around it. Three threats at once, low rust sun, glass-dust, tarnished palette, jewel crystals, dread and depth, the action band kept off the extreme edges."
+    },
+    {
+      "id": "18_forget_yourself_and_a_litany",
+      "chapter": "The Reward for Fighting Well",
+      "narration": "Once, well ahead of you, a Glass-Wraith Detonator walks to a guarded prize with their own body packed full of crack-lined glass and iodine-salt. They do not strike. They simply end. Themself, the crystal, the guard, gone together in one bloom of sweet fire. You feel no fear watching it. You understand it is the reward for fighting well. You march faster for it.",
+      "image_prompt": "Action close: a crack-lined Penitent reaching a guarded glowing amber Litany, their body sheathed in fractured glass and iodine-salt igniting in a single white-amber bloom that engulfs figure, crystal, and an armored guard together. Light flaring outward, glass-dust and sweet flame. Charcoal surround swallowed by the blast. The bloom the radiant heart of the frame, sacrificial rapture, hushed annihilation, the low rust sun beyond, the blast centered clear of the edges."
+    },
+    {
+      "id": "19_the_amber_stays_lit",
+      "chapter": "The Reward for Fighting Well",
+      "narration": "You break so many crystals that the amber stops going dark behind your eyes. It stays now, a low and permanent glow at the edge of everything. It is the sign that you can no longer tell which drowned afternoons were ever yours. The other orders call this ruin. Your order calls it promotion, because the blind hear the god undiluted. And you march faster for it.",
+      "image_prompt": "Intimate portrait of the protagonist grown older, face thick with layered iodine crack-line scars, eyes clouding amber-white, a faint permanent medicinal amber haze hanging around the head. Ash-grey rags, slag-plate at the shoulders, charcoal shadow behind. Serene and lost at once, the clouded eyes catching ember light. Sorrowful transformation, warm key-light, soft edges, hushed, the low rust sun far behind, the head held clear of the top edge."
+    },
+    {
+      "id": "20_to_teach_well_is_to_vanish",
+      "chapter": "Carried Before the Choir",
+      "narration": "Your Cantor goes blind by inches in front of you, and calls each lost inch a promotion, and marches faster the blinder they get. Their last clear act is to point you at a prize they can no longer watch you break. To teach well, here, is to advance. To advance is to vanish. You obey before they have finished lifting their hand.",
+      "image_prompt": "Two-figure dusk-eternal scene: an aged Cantor with eyes nearly white, one trembling hand lifted to point at a distant amber glow, breath whistling through a cracked tooth, salt rime crusting the cheek. Beside them the protagonist already turning to obey, while the Cantor cannot watch. Charcoal palette, faint medicinal haze, self-cut crack-line scars on both faces, low rust sun. Tender doom, transmission, soft edges, hushed, the pair set clear of the frame edges."
+    },
+    {
+      "id": "21_she_points_at_you",
+      "chapter": "Carried Before the Choir",
+      "narration": "You are carried once before the Choir of Last Voices, the most profoundly blind among you, borne on salt-litters by chained Penitents who walk wherever the blind ones point. The First Cantor, Vael-Who-Is-Nothing-Yet, lifts one withered hand and points it at you. You do not know if she means silence this one, or this one is ready. You understand, slowly, that they are the same word.",
+      "image_prompt": "Ritual symmetry: a blind First Cantor seated on a salt-litter borne by stooped chained Penitents, her amber-white eyes sightless, one withered hand lifting to point directly at a kneeling protagonist below. The air around the saint seems empty of all scent. Charcoal and salt-grey, crack-line scars, faint amber glow, drifting glass-dust. Sacred dread, ambiguous judgment, monumental hush, low rust rim-light, the litter held high and clear of the top edge."
+    },
+    {
+      "id": "22_the_god_is_screaming",
+      "chapter": "Carried Before the Choir",
+      "narration": "In the full blindness the dilution falls away, and you hear at last what every attestation and every price-tag is only a tarpaulin thrown over. The crystals are not relics. They are wounds. Veyl is not dead under the salt. Veyl is screaming. Every history the orders fight to keep is only the god flinching from a moment it cannot bring itself to let go.",
+      "image_prompt": "Vast mythic wide shot: a colossal half-buried grieving god's clouded eye and salt-crusted ribs rising from the dried basin, receding brine pooling in its hollows like tears full of glowing amber crystals. A tiny blind crack-lined figure stands far below at the god's feet. Overwhelming scale, drowned-grey divinity, sweet iodine haze, the low rust-red sun. Sorrow and horror together, soft dissolving edges, hushed revelation, the eye set high but clear of the top edge."
+    },
+    {
+      "id": "23_to_win_is_to_fail",
+      "chapter": "The Bell That Stops",
+      "narration": "So you understand, at last, that to win the Verdict is to fail. To leave one single past still standing when the last pool dries is to leave a wound that never closed. You fight so that no truth lasts the night. A blank Verdict. A successful exorcism. The god finishing its last sentence on nothing at all. The first wading hermit, the one the bone-white orders still call their saint, knew this. He shattered the first Litany he ever set, and for one clean instant heard the Sea go quiet.",
+      "image_prompt": "Symbolic wide composition: a single thinning sliver of glowing brine-teal across an immense bone-dry basin, every crystal shattered to glass-dust drifting on the wind, nothing left standing on the cracked white crust. The swollen rust-red sun rests low and motionless above. Profound emptiness, finality, drowned-grey expanse, glass-dust haze, low warm light. Monumental desolation, the relief of nothing, the horizon held mid-frame clear of top and bottom."
+    },
+    {
+      "id": "24_the_sea_weeps_it_back",
+      "chapter": "The Bell That Stops",
+      "narration": "Decades gone now, blind and salt-fused, you kneel at the very last drying pool. And you smell it. Sweet, sharp, impossible. The Sea has wept back into being the one crystal you broke at your joining. Your dearest day. The woman. The oven. Handed back to you whole, as if it had been waiting all along. You find it by the reek and the hum alone.",
+      "image_prompt": "Intimate close: an ancient blind salt-fused Iconoclast's clouded, deeply scarred face turning toward a single glowing amber crystal newly formed in the last shallow brine-teal pool. Inside the amber, the faint trapped image of a woman pressing bread to an oven-stone. Charcoal salt-crusted skin, the crystal the only light, glass-dust, sweet haze. Tender recognition, grief returned whole, soft edges, the low rust sun reflected, hushed, the face clear of the lower edge."
+    },
+    {
+      "id": "25_the_flat_of_your_thumb",
+      "chapter": "The Bell That Stops",
+      "narration": "And you break it a second time. Gently. With the flat of your thumb, the way the hermit broke the first, freely and without a tool. It is the only mercy you were ever able to give. The last thing you smell is scorched flour you cannot place. You do not know whose hum it was, and that not-knowing is the mercy. The Sea goes quiet. This time the silence is for you. And the bell that has rung since the world began, at last, stops ringing.",
+      "image_prompt": "Sacred centered climax rhyming the opening oven shot: an ancient salt-fused thumb pressing a glowing amber crystal to drifting dust, a scorched-flour ghost-image dissolving in the amber haze, the blind breaker's deeply scarred face at peace. Glass-dust falls like flour. The swollen rust-red sun rests motionless over a bone-white basin gone utterly still, the last brine drained. Transcendent stillness, mercy, the crystal's last light, hushed, the hand and face centered clear of the edges."
+    }
+  ]
+}

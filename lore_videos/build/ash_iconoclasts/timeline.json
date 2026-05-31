@@ -1,0 +1,134 @@
+{
+  "faction": "ash_iconoclasts",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "model": "eleven_multilingual_v2",
+  "scenes": [
+    {
+      "id": "01_scorched_flour",
+      "words": 66,
+      "dur": 26.41
+    },
+    {
+      "id": "02_one_good_afternoon",
+      "words": 73,
+      "dur": 29.388
+    },
+    {
+      "id": "03_the_stink_of_memory",
+      "words": 60,
+      "dur": 26.149
+    },
+    {
+      "id": "04_carrion_on_the_wind",
+      "words": 69,
+      "dur": 29.492
+    },
+    {
+      "id": "05_from_nowhere_yet",
+      "words": 81,
+      "dur": 33.672
+    },
+    {
+      "id": "06_a_hole_not_a_grave",
+      "words": 70,
+      "dur": 27.429
+    },
+    {
+      "id": "07_your_own_nose_stops_you",
+      "words": 66,
+      "dur": 27.82
+    },
+    {
+      "id": "08_the_fracture_note",
+      "words": 74,
+      "dur": 32.836
+    },
+    {
+      "id": "09_you_touch_the_note",
+      "words": 70,
+      "dur": 31.347
+    },
+    {
+      "id": "10_a_broken_crystal_for_a_face",
+      "words": 67,
+      "dur": 28.186
+    },
+    {
+      "id": "11_through_your_soles",
+      "words": 66,
+      "dur": 29.205
+    },
+    {
+      "id": "12_let_it_stop_hurting",
+      "words": 72,
+      "dur": 27.951
+    },
+    {
+      "id": "13_you_do_not_flinch",
+      "words": 55,
+      "dur": 19.409
+    },
+    {
+      "id": "14_point_the_gun_at_history",
+      "words": 72,
+      "dur": 30.093
+    },
+    {
+      "id": "15_his_impossible_choice",
+      "words": 56,
+      "dur": 23.249
+    },
+    {
+      "id": "16_a_fire_that_never_goes_out",
+      "words": 67,
+      "dur": 29.44
+    },
+    {
+      "id": "17_three_orders_with_knives",
+      "words": 65,
+      "dur": 31.478
+    },
+    {
+      "id": "18_forget_yourself_and_a_litany",
+      "words": 64,
+      "dur": 30.407
+    },
+    {
+      "id": "19_the_amber_stays_lit",
+      "words": 67,
+      "dur": 29.257
+    },
+    {
+      "id": "20_to_teach_well_is_to_vanish",
+      "words": 63,
+      "dur": 24.895
+    },
+    {
+      "id": "21_she_points_at_you",
+      "words": 66,
+      "dur": 28.029
+    },
+    {
+      "id": "22_the_god_is_screaming",
+      "words": 65,
+      "dur": 28.003
+    },
+    {
+      "id": "23_to_win_is_to_fail",
+      "words": 91,
+      "dur": 39.105
+    },
+    {
+      "id": "24_the_sea_weeps_it_back",
+      "words": 66,
+      "dur": 27.768
+    },
+    {
+      "id": "25_the_flat_of_your_thumb",
+      "words": 87,
+      "dur": 35.944
+    }
+  ],
+  "total_audio": 726.962,
+  "total_words": 1718
+}
