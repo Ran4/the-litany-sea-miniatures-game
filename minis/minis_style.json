@@ -1,0 +1,10 @@
+{
+ "plasticStyle": "Studio catalogue photograph of a single unpainted hard-plastic wargaming miniature, roughly 32mm heroic scale, cast in bare monochrome polystyrene with a subtle satin plastic sheen and crisp sculpted detail — no paint, no wash, no decals, a uniform single-colour model straight off the sprue. The figure stands on a small round textured hobby base sculpted as cracked salt-flat crust. Soft even studio softbox lighting from the upper left with a gentle cool rim light, set on a clean seamless neutral light-grey gradient backdrop with a soft contact shadow beneath the base. Three-quarter front hero angle, the whole figure framed full-length with a little headroom, sharp focus across the model, shallow tabletop depth of field falling off behind it. It must read as a real product photo of the actual plastic model — NOT a painting, NOT cover art, NOT a battlefield diorama. Absolutely no text, letters, numbers, logos, watermarks, paint or colour of any kind beyond the single plastic tone, and no scenery beyond the salt-crust base.",
+ "factionShades": {
+  "0": "The entire miniature is moulded in a single uniform unpainted plastic: pale warm bone-ivory grey (the Mnemarchs' house shade).",
+  "1": "The entire miniature is moulded in a single uniform unpainted plastic: dark charcoal gunmetal grey (the Ash Iconoclasts' house shade).",
+  "2": "The entire miniature is moulded in a single uniform unpainted plastic: cool verdigris teal blue-green (the Brine-Factors' house shade).",
+  "3": "The entire miniature is moulded in a single uniform unpainted plastic: warm muddy ochre sand-tan (the Sediment's house shade)."
+ },
+ "note": "Full prompt = plasticStyle + ' The miniature depicts: ' + body + '  ' + factionShades[factionIndex]. gen_minis.py composes this; keep per-mini bodies to silhouette/pose/gear only."
+}

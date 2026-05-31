@@ -1,0 +1,32 @@
+[
+ {
+  "id": "starter_small",
+  "name": "Duel of the Set Hour",
+  "tier": "small / 2-player intro",
+  "factions": [0, 1],
+  "boxShape": "a compact small square two-player intro box",
+  "clashArt": "blindfolded verdigris-bronze Mnemarch priests pressing a glowing memory-crystal onto a bronze anvil to Set it, while eyeless ash-grey ember-cracked Iconoclast penitents charge in swinging glowing slag-picks to shatter it",
+  "contents": "about ten bare unpainted plastic miniatures (a small starter warband for each side), a slim quick-start rules booklet, a few six-sided dice, and a small punch-out sheet of crystal and tide tokens",
+  "terrain": "one press-out paper terrain piece — a single leaning salt-crusted shrine arch"
+ },
+ {
+  "id": "starter_medium",
+  "name": "Tide and Ledger",
+  "tier": "medium / 2-player battle set",
+  "factions": [2, 3],
+  "boxShape": "a medium rectangular two-player battle box",
+  "clashArt": "oilskin Brine-Factor corsairs poling tide-skiffs and hauling glowing crystals away to sell, as a translucent drowned-grey Sediment swarm of salt-dead rises out of the shrinking brine to smother them",
+  "contents": "around twenty bare unpainted plastic miniatures split into two warbands, a full softback rulebook with a painterly cover, six-sided dice, a sliding tide-clock track, and a sheet of punch-out crystal objective tokens",
+  "terrain": "two press-out cardboard terrain pieces — a stranded tide-skiff wreck and a cluster of salt-glass crystal formations"
+ },
+ {
+  "id": "starter_large",
+  "name": "The Grand Litany",
+  "tier": "large / collector's box",
+  "factions": [0, 3],
+  "boxShape": "a large deep premium collector's two-player box",
+  "clashArt": "a vast clash across the drying flat under the swollen rust-red sun — blindfolded bronze Mnemarch bastions guarding a field of Set memory-crystals as an endless tide of drowned-grey Sediment salt-dead wades up out of the brine to re-dream them",
+  "contents": "around forty bare unpainted plastic miniatures forming two full armies, a thick hardback rulebook, fold-out deployment map boards, measuring sticks, a generous pile of six-sided dice, and a full set of punch-out crystal and tide tokens",
+  "terrain": "an array of press-out cardboard terrain — a ruined bell-tower tide-clock, a salt-shrine, and several towering crystal-cathedral formations"
+ }
+]

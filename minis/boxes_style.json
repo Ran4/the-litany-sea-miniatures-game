@@ -1,0 +1,22 @@
+{
+ "boxStyle": "Studio product photograph of a collectible miniatures-wargame boxed set — a rectangular printed-cardboard game box shot at a three-quarter hero angle on a clean seamless neutral light-grey studio backdrop with a soft contact shadow. The box-front lid is a dark painterly oil illustration in a grief-soaked mythic fantasy style: visible brushwork, muted desaturated salt-and-brine palette, a low rust-red never-setting sun over a cracked drying salt-flat, glowing salt-glass memory-crystals. The box has a bold faction-coloured border frame, a blank embossed title cartouche and a faction sigil panel that carry NO readable letters or words. Along the bottom front edge runs a small inset product strip showing the actual bare unpainted plastic miniatures from the box. Crisp premium packaging photography, glossy printed cardboard, real 3D box depth visible on one side, soft even studio light. NOT a flat poster — a real box standing on a surface. Absolutely no readable text, letters, numbers, logos or watermarks anywhere — leave all title and label areas as blank embossed plates or abstract painted bands.",
+ "factionBranding": {
+  "0": "verdigris-bronze and bone-white",
+  "1": "char-black and ember-orange",
+  "2": "iodine-teal and brass-amber",
+  "3": "drowned-grey and ochre sand"
+ },
+ "plasticShort": {
+  "0": "pale bone-ivory grey plastic",
+  "1": "dark charcoal grey plastic",
+  "2": "verdigris teal plastic",
+  "3": "ochre sand-tan plastic"
+ },
+ "factionBlurb": {
+  "0": "the blindfolded verdigris-bronze memory-priests of the Set Hour",
+  "1": "the eyeless ash-grey ember-cracked penitents of the Shattering",
+  "2": "the oilskin merchant-corsairs of the Salt Exchange",
+  "3": "the drowned-grey translucent salt-dead of the Re-Dreaming"
+ },
+ "note": "Unit-box prompt = boxStyle + box-front art (reuses minis_prompts.json[i].body, reframed as a painterly scene) + factionBranding[fi] border + plasticShort[fi] inset strip. gen_boxes.py composes this; one box per model in minis_prompts.json."
+}
