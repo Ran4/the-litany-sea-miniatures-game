@@ -1,0 +1,14 @@
+# Third-party reference (copyrighted YouTube download, frames, verbatim transcript) — never commit
+_reference/
+_source/reference_transcript.txt
+
+# Heavy derived intermediates — regenerate for free from the committed PNGs/MP3s
+build/*/clips/
+build/*/music/
+build/*/*.wav
+build/*/narration_list.txt
+build/*/captions.ass
+build_*.log
+
+# Committed (so the video re-renders without re-paying the APIs):
+#   *.mp4 (LFS), build/*/scenes/*.png (LFS), build/*/audio/*.mp3, build/*/timeline.json

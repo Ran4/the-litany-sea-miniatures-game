@@ -1,0 +1,182 @@
+{
+  "title": "Your Life as a Mnemarch",
+  "faction": "Mnemarchs — Order of the Set Hour",
+  "protagonist": "Sael of the Low Pans — a wakeless gleaner-child who became a Mnemarch archivist, sworn to Set the truth in salt before the Sea finishes dying.",
+  "total_words_estimate": 1837,
+  "scenes": [
+    {
+      "id": "01_low_pans",
+      "chapter": "Mirror-Water",
+      "narration": "You were born barefoot on the Low Pans, where the brine never rises past your knee. The rust-red sun lies doubled in every standing pool. You are a wakeless gleaner-child, palming loose salt-glass from the shallows before the Factor skiffs come. Your name is Sael. The hexagonal tiles crack beneath your soles, white and warm. The sun has not set in living memory, and no one remembers wanting it to.",
+      "image_prompt": "Wide low-horizon establishing shot of a vast cracked salt-flat at low tide, hexagonal bone-white tiles fracturing underfoot, shallow mirror-pools doubling a swollen rust-red sun on the horizon. A small barefoot child crouches in the foreground shallows, one hand reaching into glowing teal water for a faint amber salt-glass shard. Crushing scale, hush, raking sacred shadows, iodine haze softening the distance. Reverent, melancholy, monumental."
+    },
+    {
+      "id": "02_mother_song",
+      "chapter": "Mirror-Water",
+      "narration": "Your mother is Lethe of the Low Pans. At low tide she braids your salt-stiff hair and hums a four-note gleaning-song, the sun warm on her cheek. You wear that single moment as a thumb-sized shard on a thong of waxed gut at your throat. The one rule of your small life is simple. Wade, never run. A wake is a hammer, and the prize is glass.",
+      "image_prompt": "Intimate medium shot at dusk-eternal low tide: a weathered gleaner woman kneels braiding a child's salt-crusted hair, her hand at the child's nape, rust-red sun warming her cheek. At the child's throat hangs a small glowing amber salt-glass shard on a gut cord, the only bright accent. Soft lost-and-found edges, brine teal reflections beneath them, tender hush, grief-soaked warmth, painterly glazes."
+    },
+    {
+      "id": "03_stray_shot",
+      "chapter": "The Open Pool",
+      "narration": "You were eleven the falling tide your mother waded too far for one bright shard. Archivists were guarding a pool no gleaner knew was sacred, and a sworn shot took her in the open. The horror is not only that she is gone. It is knowing her death now exists as a crystal somewhere. Raw. Editable. A thing other hands could buy.",
+      "image_prompt": "Action diagonal across a drying flat: a lone gleaner woman frozen mid-wade in shin-deep brine, reaching for a distant glowing shard, struck and falling, salt water flying. Far off, dim bronze-and-bone armored archivist silhouettes stand sentinel by a guarded teal pool. Long raking shadows, rust-red sun low, cold teal fill. Shock and stillness, sacred violence, hushed devastation, atmospheric perspective."
+    },
+    {
+      "id": "04_editable_grief",
+      "chapter": "The Open Pool",
+      "narration": "An Iconoclast could shatter her with a mallet, so she never happened at all. A Sediment-priest could re-dream her up to walk again wrong, drowned-grey and hollow. A Factor could smooth the song until it stopped being hers. You learn it kneeling in the drying margin. The dead are not safe here. The dead are inventory, and grief is something the living edit.",
+      "image_prompt": "Close intimate shot of a single glowing salt-glass crystal cradled in a child's cupped, trembling hands at the drying tide-line, the trapped amber light inside flickering like a face half-remembered. Around the edges, faint drowned-grey ghost-shapes loom in iodine haze, reaching. Verdigris bronze glints in the dark. Claustrophobic tenderness, dread, jewel-bright crystal against tarnished low-saturation gloom, visible brushwork."
+    },
+    {
+      "id": "05_will_not_let_go",
+      "chapter": "The Calling",
+      "narration": "A travelling Brine-Factor offered you a kindness. He would gently smooth the death-memory until it stopped hurting, and sell you the easier version cheap. You clamped both palms over the Mother-shard and would not let him touch it. His editing slid off the crystal as though off oiled glass. You did not yet know that this refusal is the rarest mark of all.",
+      "image_prompt": "Tight two-figure composition at the salt margin: a hooded brass-and-teal Brine-Factor reaches a long elegant hand toward a child's throat, while the weeping child clamps both small palms over a glowing amber shard at the collarbone, shoulders hunched, refusing. The Factor's fingertips seem to slip and skate, repelled. Cold teal rim-light versus warm crystal glow, charged stillness, sacred defiance, painterly chiaroscuro."
+    },
+    {
+      "id": "06_lector_sees",
+      "chapter": "The Calling",
+      "narration": "A Lector of the Permitted Truth was watching from the deeper water. He saw a child who would not let a true thing be made better, not even to stop her own pain. They do not recruit the ones who see, you would learn. They recruit the few who refuse to lie. Even to comfort themselves. Even when the lie is mercy.",
+      "image_prompt": "Wide reverent frame: an aged bone-white-vested Lector stands waist-deep in a still teal pool in the middle distance, salt rime crusting his shoulders like shed skin, head turned, watching a tiny distant child clutching a glowing shard at the shoreline. The rust-red sun behind him casts a long raking shadow across the wet crust. Hushed, fateful, monumental scale, iodine god-rays, oil-on-canvas finish."
+    },
+    {
+      "id": "07_buys_debt",
+      "chapter": "Taken, Not Dead",
+      "narration": "Lector Corveine the Twice-Sworn bought your gleaning-debt with a single Set shard, paid into Lethe's empty hands. He took you from the Pans without a grave or a last meal. You were not dead. You were taken. Your family was taught to recite your name only among the moments that never happened. A child filed beside the histories no one is allowed to keep.",
+      "image_prompt": "Departure shot at low tide: an old salt-rimed Lector leads a small child by the wrist away across the cracked flat toward a distant glow on the horizon, his free hand holding aloft a single brilliant Set crystal of payment. Behind them a lone gleaner family stands diminishing in iodine haze, not waving. Long shadows, rust-red sun, profound loss, leading lines of receding tide-marks, atmospheric depth."
+    },
+    {
+      "id": "08_no_looking_back",
+      "chapter": "Taken, Not Dead",
+      "narration": "You did not look back. Looking back, you learned, is a kind of selling. To love a thing truly is to let it go exactly, completely, without one edit. So your mother let you go the way the Order lets everything go. Whole, or not at all.",
+      "image_prompt": "Over-the-shoulder composition from behind the walking child, eyes fixed forward on a far ringing salt-glass structure shimmering on the horizon. The figure deliberately does not turn; the warm rust sun ahead, the cold teal of home pools fading behind into mist. A small amber shard glows at the throat, faintly visible from the side. Restraint, resolve, grief held in, soft edges, monumental emptiness."
+    },
+    {
+      "id": "09_wade_never_run",
+      "chapter": "The Unmaking",
+      "narration": "First they teach you to wade. A Custodian-Sergeant walks you brine-deep and forbids you ever to run. A kill costs you nothing here, he says. A wake costs you everything. Wade as though the water were sleeping. Because it is. And it dreams of you.",
+      "image_prompt": "Intimate waist-deep wading shot: a grizzled bronze-and-bone Custodian-Sergeant guides a young initiate slowly through a still mirror-pool, a finger raised in warning, the water glassy and undisturbed around their legs. The rust sun doubles perfectly in the unbroken surface. Verdigris censer fuming faint iodine. Hushed instruction, sacred caution, mirror-still brine, tarnished bronze key-light, painterly grain."
+    },
+    {
+      "id": "10_confessors_patience",
+      "chapter": "The Unmaking",
+      "narration": "Then they teach you to stop. For three days you stand in the shallows, hands open, while salt rimes your wrists. This is Confessor's Patience. The reward of stillness is not strength. It is a second chance. A re-lived shot, a miss made true, given only to those who did not move. You learn that moving is loss.",
+      "image_prompt": "Ritual symmetry, centered altar-like: a lone young initiate stands motionless in ankle-deep brine at the exact center of the frame, arms lowered with palms open, white salt crystals crusting up the wrists and forearms like frost. The rust sun directly behind the head, long shadow reaching toward the viewer. Total stillness, endurance, sacred patience, mirror-pool reflection, cinematic chiaroscuro, hushed."
+    },
+    {
+      "id": "11_first_vestment",
+      "chapter": "The Unmaking",
+      "narration": "They crust you into your first vestment, still soft enough to bend. It will never be that soft again. With each truth you seal it stiffens, and one tide you will not bow at the waist at all. They do not call this aging. They call it rank. The straighter your spine, the holier the man.",
+      "image_prompt": "Close ritual dressing scene: elder hands in verdigris bronze gauntlets fit a young initiate into a pale salt-stiffened vestment, the fabric already rimed and crackling, faint amber crystal lockets sewn at the breast glowing softly. The initiate stands rigid, arms slightly out. Warm tarnished key-light, cold teal fill, sacred investiture, layered glazes, salt rime texture, solemn and final."
+    },
+    {
+      "id": "12_old_name",
+      "chapter": "The Unmaking",
+      "narration": "Last, they take your old name. You speak it once into a drying pool and watch it crystallize and go silent forever. You are unnamed now. You will earn an attestation-name only when two witnesses swear, word for word, breath for breath, that you exist at all.",
+      "image_prompt": "Intimate top-down-angled close shot: a young initiate kneels and speaks into a small shrinking mirror-pool, breath rippling the surface, where a tiny glowing salt-glass shard is forming and sealing over, its amber light dimming to silence. The rust sun reflected and breaking on the ripples. Sorrowful, sacrificial, jewel-bright crystal fading, drowned-grey shadow, soft lost edges, painterly hush."
+    },
+    {
+      "id": "13_sworn_twice",
+      "chapter": "Sworn Twice",
+      "narration": "You learn that nothing is true until it is sworn twice. They show you the Two Witnesses, Concord and Antiphony, paired officers who never stand more than a few paces apart and finish one another's sentences. Both must live and both must agree, or no truth can be Set at all. Kill one, and the whole Order's sacrament freezes mid-breath. They call this fragility sacred, not foolish.",
+      "image_prompt": "Ritual symmetry, two bone-vested officer-archivists kneel facing one another, almost touching, across a single glowing amber crystal set between them on the wet crust, both with one palm raised, mouths shaped to identical words, mirror-perfect. Iodine haze halos the shared crystal. Cold teal reflected fill from below, warm rust key from the side. Sacred concord, hushed, balanced composition, oil-on-canvas finish."
+    },
+    {
+      "id": "14_distrust_self",
+      "chapter": "Sworn Twice",
+      "narration": "You begin to distrust anything you alone remember. A single memory is only a rumour the Sea is telling itself. You re-live a crystal; another re-lives the same; only where your accounts touch does the past become real. You stop trusting your own grief. Grief, unwitnessed, might be a thing the god dreamed and not a thing that happened.",
+      "image_prompt": "Quiet interior beneath salt-glass vaults: a young archivist kneels alone re-living a glowing crystal pressed to the brow, eyes closed, while a second hooded figure waits at the edge of the warm light to attest. Faint ghosted double-images of a remembered shoreline shimmer in iodine haze around them. Verdigris bronze fittings, drowned-grey shadow, introspective, sacred doubt, soft edges, painterly grain."
+    },
+    {
+      "id": "15_corveine_blind",
+      "chapter": "Sworn Twice",
+      "narration": "Corveine is going iodine-blind. He has re-lived too many crystals, and no longer knows which drowned afternoons were truly his. I have a mother I never had, he tells you. She hums a song I have never heard. I keep her anyway. She is true to someone. You become his one clear young witness, his last anchor to the real.",
+      "image_prompt": "Intimate portrait of an ancient Lector seated on a salt block, eyes clouded amber-white with iodine blindness, salt crusting half his face, a faint medicinal haze rising around him. A young archivist kneels close at his side, looking up, anchoring. Verdigris bronze censer between them, glowing crystal lockets at the old man's chest. Tender, sorrowful, warm key-light, soft edges, painterly grain, hushed."
+    },
+    {
+      "id": "16_first_tide",
+      "chapter": "Your First Tide",
+      "narration": "They send you out an Attesting Acolyte, vestments still soft enough to kneel in. Your task is the simplest and the holiest. Find the Litany humming in the deepest pool, lay both palms upon it, and never let go. You may Hold a truth. You may not yet Set one. You are the cheapest thing the Order admits to owning, and you would die where you stand before carrying it a single step.",
+      "image_prompt": "Wide battle-margin establishing shot at dusk-eternal: a young acolyte kneels alone in a deep teal pool with both palms pressed to a brilliant humming salt-glass Litany glowing amber underwater, surrounded by the vast drying flat. Distant dim shapes of other warbands wade at the edges. Crushing scale, isolation, sacred vulnerability, the crystal the only true light, raking rust-red shadows, atmospheric haze."
+    },
+    {
+      "id": "17_verdigris_ring",
+      "chapter": "Your First Tide",
+      "narration": "Beside you stand the Verdigris Wardens. They have Set so many crystals that their bronze has oxidized solid, and they have become terrain. When the first shots strike them, they ring green, a deep cracked-bell note, and simply do not move. You do not push a Verdigris Warden off a pool. You wait for the water to leave, and he is still there.",
+      "image_prompt": "Low heroic angle on a bronze-crusted veteran archivist standing planted in shin-deep brine, vestments oxidized into solid green-bronze plate rimed with salt, a heavy reliquary maul grounded. A shot sparks off his shoulder in a ring of green dust; he has not flinched. Behind, the young acolyte guards a glowing crystal. Monumental immovability, tarnished verdigris patina, rust sun rim-light, hushed defiance, painterly."
+    },
+    {
+      "id": "18_three_orders",
+      "chapter": "What Holding Costs",
+      "narration": "Then you meet the other three orders, each answering the same question with a knife. An Ash Iconoclast lifts a mallet over a Litany you would die to keep. Not to take it. To murder the moment so it never happened. A Brine-Factor skiff cuts the dry, shouting a price, fingers already editing a memory mid-sale. And where the tide wholly abandons the crust, the drowned-grey Reliquiae rise, re-remembering how to walk.",
+      "image_prompt": "Chaotic wide diagonal across a half-dried flat showing three threats at once: a charcoal-and-ember Iconoclast raising a mallet over a glowing crystal, a brass-and-teal Factor skiff skidding across cracked salt with a figure pointing and shouting, and a horde of drowned-grey salt-dead clawing upright from the crust in iodine haze. The lone bone-vested acolyte small at center. Dread, motion, tarnished palette, jewel crystals, atmospheric depth."
+    },
+    {
+      "id": "19_brae_runs",
+      "chapter": "What Holding Costs",
+      "narration": "You watch Brae the Quick break the catechism. He runs to save a wounded friend instead of wading. His wake rolls out like a hammer-blow and shatters an unSet Litany in the open. He survives. The moment he tried to save does not. He never speaks in the naves again, because no witness will swear to a man whose own truth he drowned.",
+      "image_prompt": "Action diagonal: a bone-vested archivist sprints through shin-deep brine, a violent wake spraying behind him, face anguished, reaching toward a fallen comrade. In the foreground a glowing amber Litany cracks and bursts into dimming shards from the disturbance, its light dying. Long rust-red shadows, kinetic spray, broken crystal accents, tragedy, cold teal fill, painterly motion blur on the water."
+    },
+    {
+      "id": "20_set_hour",
+      "chapter": "The Set Hour",
+      "narration": "Then comes the sacrament you were unmade for. A crystal lies Held in brine deep enough to cushion it against every shatter. You lay both palms flat upon the glass and do the impossible, gentle thing. You will it to stay. Not better. Not edited. Exactly as it was. It rings once, clear, and can never again be held, sold, moved, shattered, or re-dreamed.",
+      "image_prompt": "Sacred centered close shot: an archivist kneels in a glowing teal pool, both palms flat upon a large faceted salt-glass crystal that blazes amber from within at the moment of Setting, light flaring up the arms. A single visible ring of resonance ripples the water outward. Verdigris bronze vestments rimed white. Awe, transcendence, the crystal the radiant heart of the frame, chiaroscuro, volumetric god-rays, oil glazes."
+    },
+    {
+      "id": "21_agony_timing",
+      "chapter": "The Set Hour",
+      "narration": "The agony is the timing. Set too soon and you waste the sacrament on a moment no one wanted to take from you. Wait for the pool to be safe, and the Long Toll dries it out from under your hands first. The cushion gone. The truth lost to a stray shot. The Sealing Choir sing it in the open, racing the receding water, betting everything on a single falling die. You have heard that die land both ways.",
+      "image_prompt": "Tense wide shot at a rapidly drying pool: robed Sealing Choir figures cluster around a glowing crystal in a shrinking ring of brine, the wet boundary contracting visibly to bare cracked crust, salt-dead and enemy shapes closing in the haze. A verdigris hourglass-bell looms tarnished at frame edge, sand and brine nearly drained. Anxiety, the gamble, receding tide-line, rust sun pressing low, dread made audible, painterly."
+    },
+    {
+      "id": "22_iodine_truth",
+      "chapter": "The Turn",
+      "narration": "Re-living a thousand crystals, you go iodine-blind at last. And in that blindness you finally understand the thing the attestations were built to keep you from saying aloud. You are not looting a corpse. Veyl is not dead. Veyl is grieving, and every crystal is a tear the god has not finished crying.",
+      "image_prompt": "Vast mythic wide shot revealing the basin as a body: a colossal half-buried leviathan-god's ribs and a single vast clouded eye rise from the salt-flat horizon, faint and grief-soaked in iodine haze, the receding brine pooling in its hollows like tears holding glowing crystals. A tiny blind archivist stands far below. Overwhelming scale, sorrow, drowned-grey divinity, rust sun, soft dissolving edges, hushed revelation."
+    },
+    {
+      "id": "23_held_breath",
+      "chapter": "The Turn",
+      "narration": "The Toll is not a clock. It is a held breath. When the last pool dries, Veyl finishes the thought, and whatever past is crystallized at that instant becomes the only past that ever was. The loser's history does not merely fail to score. It ceases ever to have happened. You and the other three orders are not scavengers. You are the voices arguing inside the last sentence of a dying god.",
+      "image_prompt": "Symbolic wide composition: a single thinning sliver of glowing brine remains across an immense bone-white dried basin, the rust sun swollen and almost touching the horizon, a tarnished verdigris hourglass nearly emptied looming on one side. The cathedral of salt-glass shimmers far off. Profound finality, held tension, monumental emptiness, low-saturation tarnished palette, jewel pools, atmospheric haze, painterly."
+    },
+    {
+      "id": "24_hollow_antiphon",
+      "chapter": "The Hollow Antiphon",
+      "narration": "You hold the anvil at the Hollow Antiphon. The Litany keeps the last hour of a drowned city. Three orders close at once, and the pool dries ankle to crust beneath you. The mallet, the merchant, and the swarm all come for the same glowing thing. The Verdigris Wardens plant around you like a wall the tide forgot. You do not let go.",
+      "image_prompt": "Epic action wide shot: a kneeling bone-vested archivist clamps both hands on a huge glowing city-memory Litany at the center of a fast-drying pool, while charcoal Iconoclasts, a brass Factor skiff, and drowned-grey salt-dead converge from three sides through iodine haze. The brine boundary shrinking to bare crust. Verdigris veterans planted as a wall around the kneeling figure. Desperate stand, rust shadows, jewel-bright crystal core, chiaroscuro, monumental."
+    },
+    {
+      "id": "25_corveine_sets",
+      "chapter": "The Hollow Antiphon",
+      "narration": "Corveine re-lives his final crystal to attest it, and goes fully blind mid-attestation, finishing the words by rote, breath for breath. Hold it as-it-was, he tells you. The kind lie is the worst lie. Set true, or set nothing. The Choir's voice cracks on the last word. The crystal rings once and Sets. The water leaves. You are still there.",
+      "image_prompt": "Solemn close two-figure scene: the ancient Lector, three-quarters turned to salt, kneels rigid with sightless white eyes, lips moving in attestation, one salt-fused hand resting on the young archivist beside him as a great crystal Sets and blazes amber. The brine has fully drained to cracked crust around their knees. Grief, transmission, sacrifice, warm crystal light on two faces, drowned-grey salt, painterly glazes, hushed."
+    },
+    {
+      "id": "26_buried_standing",
+      "chapter": "Buried Standing Up",
+      "narration": "You live your rank in your own joints. Shoulders, then wrists, then waist, crusting harder with every truth you seal. To be promoted is to be slowly buried standing up, the last thing moving precisely because you can no longer move at all. Far ahead of you the Set Hierarch, Antiphon Vael the Unbending, can no longer walk. He is carried into the dry on a palanquin of crystals he sealed decades ago. You are becoming, by inches, part of the cathedral you spent a life filling.",
+      "image_prompt": "Reverent interior of a vaulted cathedral built entirely of stacked glowing salt-glass crystals ringing in the wind, where ancient archivists stand fused half-into the walls, vestments turned to solid salt and verdigris, only their clouded eyes still alive. In the deep nave a wholly rigid Hierarch is borne aloft on a litter of sealed crystals by stooped bearers. Amber and teal crystal glow throughout, sacred stillness, monumental, chiaroscuro, oil-on-canvas, hushed bells."
+    },
+    {
+      "id": "27_shard_lifted",
+      "chapter": "The Last Pool",
+      "narration": "Half-blind now, vestment-locked in the last drying pool, you cannot bend to lift the Mother-shard from your own throat. It has clouded almost opaque from a lifetime of re-living, the four-note song nearly worn away from being loved. An acolyte lifts it free at your word. The same small service you once did for Corveine, passed down the line like a held breath.",
+      "image_prompt": "Intimate close shot: a young acolyte gently lifts a clouded, nearly opaque thumb-sized salt-glass shard on a worn gut cord from the throat of a rigid, salt-fused elder archivist whose body has crusted into pale vestment, eyes clouded amber. Faint dying glow inside the worn shard. The last shallow brine pool reflects the low rust sun. Tenderness, full circle, soft edges, sorrow, painterly grain."
+    },
+    {
+      "id": "28_set_the_mother",
+      "chapter": "One True Thing",
+      "narration": "With the last Set Hour before the water leaves, you press rigid palms to the small unSet shard. You Set your mother humming at low tide, exactly as-it-was. Not improved. Not eased. It rings once, clear, like Osseil's first. What was, shall be. You did not remember it. You made it so. It can never again be edited, sold, shattered, moved, or re-dreamed. You set not the god's grief, but your own. One true thing, eternal.",
+      "image_prompt": "Sacred centered climax: a salt-fused elder archivist kneels in the last sliver of brine, rigid palms cupped around the small clouded Mother-shard which now blazes brilliant amber as it Sets, the trapped image of a woman braiding a child's hair faintly radiant within. A single ring of light ripples out. The rust sun on the horizon behind. Transcendent grief, the shard the radiant heart, chiaroscuro, god-rays, oil glazes."
+    },
+    {
+      "id": "29_only_salt",
+      "chapter": "One True Thing",
+      "narration": "The salt rises up your wrists, your throat. You were never going to move again, and you find you do not want to. You set into the cathedral beside the shard, a new wall, true. Only salt now. Only the silence after a bell. Listen. The ringing is steadying. The Sea will go remembered truly, and so will you.",
+      "image_prompt": "Final wide reverent shot: the cracked basin fully dried to bone-white salt, the last pool gone, a single new crystalline figure fused into the wall of the great ringing cathedral of salt-glass, one small brilliant amber shard glowing at its throat, the only light left. The rust-red sun rests motionless on the empty horizon. Profound stillness, peace, completion, monumental emptiness, jewel accent, atmospheric haze, oil-on-canvas, hushed."
+    }
+  ]
+}

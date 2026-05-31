@@ -1,0 +1,154 @@
+{
+  "faction": "mnemarchs",
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "model": "eleven_multilingual_v2",
+  "scenes": [
+    {
+      "id": "01_low_pans",
+      "words": 70,
+      "dur": 32.549
+    },
+    {
+      "id": "02_mother_song",
+      "words": 67,
+      "dur": 30.459
+    },
+    {
+      "id": "03_stray_shot",
+      "words": 62,
+      "dur": 26.567
+    },
+    {
+      "id": "04_editable_grief",
+      "words": 63,
+      "dur": 29.492
+    },
+    {
+      "id": "05_will_not_let_go",
+      "words": 63,
+      "dur": 27.481
+    },
+    {
+      "id": "06_lector_sees",
+      "words": 62,
+      "dur": 25.313
+    },
+    {
+      "id": "07_buys_debt",
+      "words": 64,
+      "dur": 26.514
+    },
+    {
+      "id": "08_no_looking_back",
+      "words": 47,
+      "dur": 18.808
+    },
+    {
+      "id": "09_wade_never_run",
+      "words": 45,
+      "dur": 19.461
+    },
+    {
+      "id": "10_confessors_patience",
+      "words": 58,
+      "dur": 24.921
+    },
+    {
+      "id": "11_first_vestment",
+      "words": 56,
+      "dur": 21.682
+    },
+    {
+      "id": "12_old_name",
+      "words": 47,
+      "dur": 21.159
+    },
+    {
+      "id": "13_sworn_twice",
+      "words": 67,
+      "dur": 30.276
+    },
+    {
+      "id": "14_distrust_self",
+      "words": 59,
+      "dur": 25.992
+    },
+    {
+      "id": "15_corveine_blind",
+      "words": 60,
+      "dur": 26.776
+    },
+    {
+      "id": "16_first_tide",
+      "words": 73,
+      "dur": 29.283
+    },
+    {
+      "id": "17_verdigris_ring",
+      "words": 63,
+      "dur": 26.776
+    },
+    {
+      "id": "18_three_orders",
+      "words": 72,
+      "dur": 32.627
+    },
+    {
+      "id": "19_brae_runs",
+      "words": 63,
+      "dur": 25.94
+    },
+    {
+      "id": "20_set_hour",
+      "words": 64,
+      "dur": 29.806
+    },
+    {
+      "id": "21_agony_timing",
+      "words": 79,
+      "dur": 30.041
+    },
+    {
+      "id": "22_iodine_truth",
+      "words": 53,
+      "dur": 23.771
+    },
+    {
+      "id": "23_held_breath",
+      "words": 72,
+      "dur": 29.936
+    },
+    {
+      "id": "24_hollow_antiphon",
+      "words": 63,
+      "dur": 27.167
+    },
+    {
+      "id": "25_corveine_sets",
+      "words": 60,
+      "dur": 27.585
+    },
+    {
+      "id": "26_buried_standing",
+      "words": 87,
+      "dur": 36.78
+    },
+    {
+      "id": "27_shard_lifted",
+      "words": 63,
+      "dur": 28.552
+    },
+    {
+      "id": "28_set_the_mother",
+      "words": 76,
+      "dur": 34.09
+    },
+    {
+      "id": "29_only_salt",
+      "words": 59,
+      "dur": 23.85
+    }
+  ],
+  "total_audio": 793.652,
+  "total_words": 1837
+}
